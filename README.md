@@ -25,7 +25,8 @@ El script desarrollado en Python y Scapy automatiza un bombardeo masivo de trama
 ---
 
 ## 4. Evidencias de Funcionamiento (PoC)
-<img width="2481" height="1267" alt="image" src="https://github.com/user-attachments/assets/eb375611-48ad-4a72-b2b6-31c226162cfd" />
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/bb25f215-8465-4d4e-8411-c6667e00eee5" />
+
 
 
 ---
